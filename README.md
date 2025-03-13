@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Simon</h1>
 <h3 align="center">A student driven by the chance of improvement.</h3>
 
+- 🔭 I’m currently studying IT at Warsaw University of Life Sciences
+
 - 🌱 I’m currently learning **Python / Flask /**
 
 - 🤝 I’m looking for help with **developing my porfolio and gaining experience**
