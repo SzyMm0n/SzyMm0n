@@ -63,6 +63,8 @@ Simon.
 
 <p>The difference in my expertise varies. From my perspective, I am most knowledgeable in Python, HTML, CSS, and C#, followed by JS, and then databases.</p>
 
-<h1 align="center">Language stats</h1>
+<h1 align="center">Some metrics</h1>
 
 ![](https://github-readme-stats-seven-pi-22.vercel.app/api/top-langs/?username=SzyMm0n&exclude_repo=AiSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
+
+![](https://github-contributor-stats.vercel.app/api?username=SzyMm0n&limit=5&theme=dark&combine_all_yearly_contributions=true)
