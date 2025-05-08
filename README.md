@@ -14,19 +14,15 @@
 
 ## 🔧 Projects you can look at
 
-- **NFZ Queue Simulator**  
+- [**NFZ Queue Simulator**](https://github.com/SzyMm0n/NFZ-Queue-Simulator)  
   Patient queue simulation with priority queues and scheduling logic  
   _Python, Flask, GitHub_
 
-- **University Staff Comparator – API**  
+- [**University Staff Comparator – API**](https://github.com/SzyMm0n/API)  
   Team project comparing academic staff based on publications. I was responsible for API endpoint testing and backend tasks.  
   _Go, PostgreSQL, React_
-  
-- **Web RTS Game (WIP)**  
-  A browser-based RTS with AI opponents using neural networks  
-  _Python, Flask, Flask-RESTx, Flask-SQLAlchemy, Flask-JWT-Extended, Alembic_
 
-- **Basic Webpage**  
+- [**Basic Webpage**](https://github.com/SzyMm0n/Mysite)
   HTML/CSS site demonstrating core front-end concepts
 
 ---
