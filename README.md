@@ -20,7 +20,7 @@
 
 - [**University Staff Comparator – API**](https://github.com/SzyMm0n/API)  
   Team project comparing academic staff based on publications. I was responsible for API endpoint testing and backend tasks.  
-  _Go, PostgreSQL, React_
+  _Go_
 
 - [**Basic Webpage**](https://github.com/SzyMm0n/Mysite)
   HTML/CSS site demonstrating core front-end concepts
