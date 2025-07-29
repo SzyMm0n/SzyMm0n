@@ -58,6 +58,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-git-master-szymons-projects-8e723cb1.vercel.app/api/top-langs/?username=SzyMm0n&exclude_repo=AiSD&hide=xslt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
+![](https://github-readme-stats-szymons-projects-8e723cb1.vercel.app/api/top-langs/?username=SzyMm0n&exclude_repo=AiSD&hide=xslt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
 
 ![](https://github-contributor-stats.vercel.app/api?username=SzyMm0n&limit=5&theme=dark&combine_all_yearly_contributions=true)
